@@ -12,14 +12,23 @@ to prevent customers from leaving the company.
 This dataset has 21 attributes including a binary class attribute about churn. The descriptions of the attributes are given below:
 
 1. State: Customer’s state.
+   
 2. Account Length: Integer number showing the duration of activity for customer account.
+
 3. Area Code: Area code of customer. 
+
 4. Phone Number: Phone number of customer.
+
 5. Inter Plan: Binary indicator showing whether the customer has international calling plan.
+
 6. VoiceMail Plan: Indicator of voice mail plan.
+
 7. No of Vmail Mesgs: The number of voicemail messages. 
+
 8. Total Day Min: The number of minutes the customer used the service during day time (continuous quantitative data type).
+
 9. Total Day Calls: Discrete attribute indicating the total number of calls during day time.
+
 10.Total Day Charge: Charges for using the service during day time (continuous data type).
 
 11.Total Evening Min: The number of minutes the customer used the service during evening time.
